@@ -1,0 +1,73 @@
+@font-face {
+    font-family: "Times New Roman";
+    src: url("Times New Roman");
+}
+
+body {
+    background-image: url("pastel.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    max-width: 1000px;
+    margin: auto;
+    overflow-y: scroll;
+}
+
+#jmc {
+    text-align: center;
+    font-family: "Times New Roman";
+    color: Black;
+    
+}
+
+#cite {
+    text-align: center;
+    font-family: Georgia;
+    color: black;
+    
+}
+
+#year {
+    text-align: center;
+    font-family: Georgia;
+    color: Black;
+    
+}
+
+.table {
+    background-color: White;
+    border-collapse: collapse;
+    color: #000;
+    font-size: 18px;
+}
+
+.table th {
+    background-color: mediumpurple;
+    color: white;
+    width: 50%;
+    padding: 20px 20px;
+    border-color: whitesmoke;
+    border-style: solid;
+    border-width: 1px;
+    font-family: Arial;
+    font-size: 16px;
+    overflow: hiddden;
+    word-break: normal;
+}
+
+.table td {
+    background-color: #0503249c;
+    border-bottom: 1px dotted #e27434;
+    padding: 20px 20px;
+    border-color:whitesmoke;
+    border-style: solid;
+    border-width: 1px;
+    color: white;
+    font-family: Arial;
+    font-size: 16px;
+    overflow: hiddden;
+    word-break: normal;
+    text-align: center;
+}
+
+
